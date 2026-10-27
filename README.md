@@ -4,6 +4,8 @@ Control software for a 4-compressor air-cooled chiller, written in **IEC 61131-3
 
 ![12 minute SIL run](results/sil_run.png)
 
+**Validation documents:** [Functional Specification](docs/functional_specification.md) (21 testable requirements) and [Requirements Traceability Matrix](docs/traceability_matrix.md) (requirement → code → test → result, with the open test gaps listed).
+
 ## Architecture
 
 ```
